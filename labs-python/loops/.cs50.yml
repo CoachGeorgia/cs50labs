@@ -1,4 +1,4 @@
-lab50:
+lab50: true
   files:
     - !exclude "*"
     - !include mario.py
